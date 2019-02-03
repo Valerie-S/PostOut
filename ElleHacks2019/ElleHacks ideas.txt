@@ -1,0 +1,18 @@
+childcare - maternity leave - wage gap
+
+solns:
+- more intelligent baby monitor
+	- stranger detection| daily summary videos| immediete notification already exist
+	- new idea: baby health status analysis
+- interaction bot(emotion detection? probably too hard)
+- game with educational purpose with regard to gender equality(but require anumations and lots of arts)
+
+Nanny???
+
+salary transparency - privacy problem
+
+elder care - volunteer work(student community hour) - volunteer work app?
+
+anonymous skill critique 
+	- let HR guess the gender while browsing through different resumes and skillsets of applicants
+	- provide actual data
